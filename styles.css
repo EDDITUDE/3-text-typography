@@ -1,0 +1,23 @@
+html {
+    background-color: aliceblue;
+    font-family: "urca", sans-serif;
+}
+
+.site-header {
+    background-color: blueviolet;
+    color:white;
+     font-family: "Roboto Mono", monospace;
+     font-size: 60px;
+     line-height: 40px;
+     font-weight: 100;
+     text-align: center;
+}
+
+.callout {
+    color: orange;
+    font-weight: 900;
+}
+
+.address {
+    text-align: right;
+}
